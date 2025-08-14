@@ -21,7 +21,7 @@ With several years of experience in the pharmaceutical and biotechnology industr
 
 ## Planned Repo Structure
 This repository will eventually include:
-- `sql-practice/` – SQL challenges and learnings from StrataScratch, LeetCode, etc.
 - `certification-notes/` – Summaries and key concepts from each certification
+- `sql-practice/` – SQL challenges and learnings from StrataScratch, LeetCode, etc.
 - `powerbi-dashboards/` – Screenshots and summaries of dashboard projects
 - `healthcare-projects/` – Applied case studies using public datasets
