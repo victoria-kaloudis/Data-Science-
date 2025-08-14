@@ -4,16 +4,25 @@ This page tracks my progress through a curated set of industry-recognized data s
 
 ---
 
-## In Progress
+## Completed
 
 **Learn SQL Basics for Data Science**  
 *University of California, Davis via Coursera*  
-- Currently completing Course 2 of 4 (as of July 2025)  
+- Completed SQL for Data Science and SQL Problem Solving   
 - Covers SQL querying, joins, aggregation, subqueries, and relational database design  
 - Designed to build foundational skills for data analysis in real-world settings
 
 ---
 
+## In Progress
+
+** Microsoft Certified: Power BI Data Analyst Associate
+*uCertify / Microsoft Learn*
+- Focuses on preparing, modeling, and visualizing data in Power BI
+- Emphasizes DAX, report creation, and publishing dashboards for business insights
+- Currently working through structured practice to prepare for the PL-300 exam
+
+---
 
 ## Upcoming
 
@@ -32,4 +41,4 @@ This page tracks my progress through a curated set of industry-recognized data s
 
 ---
 
-*Last updated: July 2025*
+*Last updated: August 2025*
