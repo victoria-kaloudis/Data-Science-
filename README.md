@@ -3,7 +3,10 @@
 Welcome! This repository tracks my progress as I develop technical skills in data science and analytics, building on my background in biochemistry and pharmaceutical strategy.
 
 ## Current Status
-I am working on the **Learn SQL Basics for Data Science** course through Coursera (offered by UC Davis). This course focused on writing queries to retrieve, filter, and analyze structured data—foundational skills for real-world evidence and healthcare analytics.
+I recently completed the **Learn SQL Basics for Data Science** course through Coursera (offered by UC Davis). The course focused on writing SQL queries to retrieve, filter, and analyze structured data—skills foundational to real-world evidence and healthcare analytics.
+
+I am currently working on the **Microsoft Power BI Data Analyst Associate certification** through uCertify. This program builds on my SQL knowledge and emphasizes data modeling, visualization, and the use of DAX to generate business insights from complex datasets.
+
 
 ## Upcoming Certifications
 This is the first step in a structured learning path. I’ll continue expanding this repository as I work through:
