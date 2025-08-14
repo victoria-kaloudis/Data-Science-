@@ -16,7 +16,7 @@ This page tracks my progress through a curated set of industry-recognized data s
 
 ## In Progress
 
-** Microsoft Certified: Power BI Data Analyst Associate
+**Microsoft Certified: Power BI Data Analyst Associate**
 *uCertify / Microsoft Learn*
 - Focuses on preparing, modeling, and visualizing data in Power BI
 - Emphasizes DAX, report creation, and publishing dashboards for business insights
